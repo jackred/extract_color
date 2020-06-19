@@ -13,3 +13,7 @@ After installing all dependencies (in a virtualenv or in the system) run:
 ```bash
 python main.py path/to/image
 ```
+
+## example
+
+![](https://github.com/jackred/extract_color/raw/master/example/result2.png)
