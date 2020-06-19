@@ -1,6 +1,6 @@
 # extract_color
 
-A simple python script using too much dependencies to get the main color of an images with kmeans.  
+A simple python script using too much dependencies to get the main colors of an image with kmeans.  
 The process is stochastic and no seed were set so each run will give a different result (can be changed with the argument `random_state` in kmeans).  
 
 To install the dependencies:
